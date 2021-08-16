@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Java FullStack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...vishaljv0@gmail.com
 
 <!---
 VishalVernkar/VishalVernkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
